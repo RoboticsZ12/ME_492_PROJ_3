@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zechariah/ME_492_PROJ_3/build/Project",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/my_project.dir/person.cpp.o -c /home/zechariah/ME_492_PROJ_3/Project/person.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_3/Project/person.cpp"
+},
+{
+  "directory": "/home/zechariah/ME_492_PROJ_3/build/Project",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/my_project.dir/main.cpp.o -c /home/zechariah/ME_492_PROJ_3/Project/main.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_3/Project/main.cpp"
+}
+]
